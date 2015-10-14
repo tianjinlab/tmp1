@@ -1,0 +1,8 @@
+²½ÖèÈçÏÂ£º
+1./git/git config --global user.email artin.ren@outlook.com
+2./git/git config --global user.name "tianjinlab"
+3./git/git init
+4.git add XXX
+5.git commit -m "first commit"
+6.git remote add origin  https://github.com/tianjinlab/tmp1.git
+7.git push -u origin master
