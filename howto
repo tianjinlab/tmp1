@@ -10,3 +10,5 @@
 第一次常用:
 1. git pull https://github.com/tianjinlab/tmp1.git master
 2. git push https://github.com/tianjinlab/tmp1.git master
+
+每当修改完一个项目时，git add是把这个项目加到本地仓库，这时git push是不会成功的。需要再git commit打上一个标签，才能说有改动。然后在git push。
