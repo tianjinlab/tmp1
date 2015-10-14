@@ -6,3 +6,7 @@
 5.git commit -m "first commit"
 6.git remote add origin  https://github.com/tianjinlab/tmp1.git
 7.git push -u origin master
+
+第一次常用:
+1. git pull https://github.com/tianjinlab/tmp1.git master
+2. git push https://github.com/tianjinlab/tmp1.git master
